@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lyrics Finder</string>
+    <string name="buttonSearchText">Найти</string>
+    <string name="artist_text_hint">Имя артиста/название группы</string>
+    <string name="song_text_hint">Название песни</string>
+    <string name="music_image__description">Music image</string>
+</resources>
